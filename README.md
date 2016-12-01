@@ -1,4 +1,4 @@
 # Python-CI-Testing
 In class repository
 
-Kyle is awesome
+[![Build Status](https://travis-ci.org/hotshotkyle/Python-CI-Testing.svg)](https://travis-ci.org/Hotshotkyle/Python-CI-Testing)
